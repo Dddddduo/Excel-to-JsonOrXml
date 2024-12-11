@@ -23,6 +23,6 @@
 
 ## 鸣谢
 
-Apache POI 库: https://poi.apache.org/
-Jackson JSON 库: https://github.com/FasterXML/jackson
-JAXB: https://javaee.github.io/jaxb-v2/
+- Apache POI 库: https://poi.apache.org/
+- Jackson JSON 库: https://github.com/FasterXML/jackson
+- JAXB: https://javaee.github.io/jaxb-v2/
